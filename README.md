@@ -29,7 +29,8 @@ I downloaded docker-compos.yml file from : [https://raw.githubusercontent.com/bi
 
 6. **Resources**
  - API URL: http://challenges.lugaronline.com:8100/api/zip-codes
- - Challenge repository: https://github.com/yoisar/postal-service
+ - All zip codes can be tested up to date 05/09/2022
+ - You can import the **zip_codes** table from **app/database/zip_codes.sql**
 
 ## Español ##
 
@@ -60,5 +61,6 @@ Descargué archivo docker-compos.yml desde https://raw.githubusercontent.com/bit
 
 
 6.	**Recursos**
- - URL de la API: http://challenges.lugaronline.com:8100/api/zip-codes 
- - Repositorio del reto: https://github.com/yoisar/postal-service 
+ - URL de la API: http://challenges.lugaronline.com:8100/api/zip-codes  
+ - Se pueden probar todos los códigos postales hasta la fecha 09/05/2022
+ - Se puede importar la table **zip_codes**  desde **app/database/zip_codes.sql**

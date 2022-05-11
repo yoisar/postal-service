@@ -1,8 +1,6 @@
 ## English ##
 
-**Backbone Challenge Senior Backend Developer**
-
-To replicate the API functionality [https://jobs.backbonesystems.io/api/zip-codes/01210](https://jobs.backbonesystems.io/api/zip-codes/01210)  as requested in the challenge.
+**Rest API development in Laravel that replicates the functionality of https://jobs.backbonesystems.io/api/zip-codes/01210**
 
 1. **I developed a REST API in Laravel inside a Docker container with**:
 
@@ -34,7 +32,7 @@ I downloaded docker-compos.yml file from : [https://raw.githubusercontent.com/bi
 
 ## Español ##
 
-Para replicar el la funcionalidad la API [https://jobs.backbonesystems.io/api/zip-codes/01210](https://jobs.backbonesystems.io/api/zip-codes/01210)  como se solicita en el reto. 
+**Desarrollo de API Rest en Laravel que replique la funcionalidad de https://jobs.backbonesystems.io/api/zip-codes/01210**
 
 1.	**Desarrollé una REST API  en Laravel   dentro un contenedor Docker con:**
  - Laravel Framework 9.11.0
